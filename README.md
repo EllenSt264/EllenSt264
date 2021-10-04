@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 ![Header gif](media/header.gif)
 
-## A little about me... 
+## About Me 
+
 ```
 
     class EllenSt:
@@ -44,4 +45,12 @@ Here are some ideas to get you started:
 
 ```
 
-## 
+## Stats
+
+
+![GitHub profile score](https://gitwar.herokuapp.com/badge?username=ellenst264&color=blueviolet&style=for-the-badge&label=PROFILE+SCORE)
+
+[![Ellen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellenst264)](https://github.com/ellenst264/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
