@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hello there!
 
-My name is Ellen Stafford, I'm a junior full stack software developer based in Liverpool, UK. I am actively pursuing an entry into the tech industry and wish to contribute to the tech environment. You can reach me via [my website]() or [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stafford-ellen/)
+My name is Ellen Stafford, I'm a junior full stack software developer based in Liverpool, UK. I am actively pursuing an entry into the tech industry and wish to contribute to the tech environment. You can reach me via [my website]() or via [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stafford-ellen/)
  
 
 ## About Me 
@@ -132,18 +132,3 @@ My name is Ellen Stafford, I'm a junior full stack software developer based in L
 [![Ellen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellenst264&show_icons=true&locale=en)](https://github.com/ellenst264/github-readme-stats) [![Ellen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ellenst264&show_icons=true&locale=en&layout=compact)](https://github.com/ellenst264/github-readme-stats)
 
 </details>
-
------
-
-<details>
-<summary>⚡ Recent GitHub Activity</summary>
-<br>
-</details>
-
-----
-
-
-##  📝 How I work
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
