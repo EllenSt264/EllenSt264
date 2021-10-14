@@ -119,16 +119,10 @@ My name is Ellen Stafford, I'm a junior full stack software developer based in L
 -----
 
 
-## 📊 Statistics
-
-<details>
-<summary>💻 GitHub Profile Stats</summary>
-<br>
+## 📊 GitHub Stats
     
 ![GitHub profile score](https://gitwar.herokuapp.com/badge?username=EllenSt264&color=blueviolet&style=for-the-badge&label=GITWAR+SCORE) ![visitors](https://visitor-badge.glitch.me/badge?page_id=EllenSt264.EllenSt264&style=flat-square) 
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EllenSt264&row=2&column=3&margin-w=15&margin-h=15&theme=gitdimmed)
 
 [![Ellen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellenst264&show_icons=true&locale=en)](https://github.com/ellenst264/github-readme-stats) [![Ellen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ellenst264&show_icons=true&locale=en&layout=compact)](https://github.com/ellenst264/github-readme-stats)
-
-</details>
