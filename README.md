@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello, I'm+Ellen+Stafford+☕️;I'm+A+Full-Stack-Software-Developer+💻&vCenter=true&center=true&background=372b44&height=100&width=1000&font=Koulen&size=50&color=ffffff">
+  <img src="media/header.svg" alt="Hello, I'm Ellen Stafford. I'm a full-stack software developer.">
 </p>
 
 <h3 align="center">
@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=
-  Learning+New+Things...;Solving+Problems;Getting+Creative;Strength+Training;Playing+Games;Infinitely+Coding+&vCenter=true&center=true&height=50&width=800&font=Koulen&size=30&color=b042ff">
+  <img src="media/what-im-doing.svg" alt="Learning new things. Solving problems. Getting creative. Strength training. Playing games. Infinitely coding.">
 </p>
 
 <p align="center">
