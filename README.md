@@ -13,13 +13,43 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header gif](media/header.gif)
+<h2 align="center">
+    WELCOME TO MY PROFILE
+</h2>
 
-## Hello there!
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello, I'm+Ellen+Stafford+☕️;I'm+A+Full-Stack-Software-Developer+💻&vCenter=true&center=true&background=372b44&height=100&width=1000&font=Koulen&size=50&color=ffffff"></a>
+</p>
 
-My name is Ellen Stafford, I'm a full-stack software developer based in Liverpool, UK. I am actively pursuing an entry into the tech industry and wish to contribute to the tech environment. You can reach me via [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:stafford.ellen@protonmail.com) or [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stafford-ellen/)
+<h3 align="center">
+  Right now, I'm probably:
+</h3>
 
-## About Me
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=
+  Learning+New+Things...;Solving+Problems;Getting+Creative;Strength+Training;Playing+Games;Infinitely+Coding+&vCenter=true&center=true&height=50&width=800&font=Koulen&size=30&color=b042ff"></a>
+</p>
+
+<p align="center">
+ <a href="mailto:stafford.ellen@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/stafford-ellen/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+<br>
+
+<h2 align="center">
+  ABOUT ME
+</h2>
+
+<br>
+
+<p align="center">
+  My name is Ellen Stafford, I'm a full-stack software developer based in Liverpool, UK. I am actively pursuing an entry into the tech industry and wish to contribute to the tech environment. 
+</p>
+
+<br>
 
 ```
 
@@ -50,16 +80,26 @@ My name is Ellen Stafford, I'm a full-stack software developer based in Liverpoo
 
 ```
 
+<br>
+
 ---
 
-## 📚 My Top Projects
+<br>
 
-<p align="left">
+<h2 align="center">
+  📚 MY TOP PROJECTS
+</h2>
+
+<br>
+
+<p align="center">
     <a href="https://github.com/EllenSt264/naturetrust"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EllenSt264&repo=naturetrust&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="NatureTrust" width="282p"></a>
     <a href="https://github.com/EllenSt264/my-next-game"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EllenSt264&repo=my-next-game&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="My Next Game" width="282"></a>
     <a href="https://github.com/EllenSt264/return-my-coffee"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EllenSt264&repo=return-my-coffee&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Return myCoffee" width="282"></a>
     <a href="https://github.com/EllenSt264/ellenstafford"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EllenSt264&repo=ellenstafford&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Ellen Stafford portfolio" width="282"></a>
 </p>
+
+<br>
 
 <details>
 
@@ -75,13 +115,23 @@ My name is Ellen Stafford, I'm a full-stack software developer based in Liverpoo
 
 </details>
 
+<br>
+
 ---
 
-## ⭐️ Skills
+<br>
+
+<h2 align="center">
+  ⭐️ SKILLS
+</h2>
+
+<br>
 
 ### 💜 Favourite Language
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<br>
 
 ### 👩🏼‍💻 Programming Languages
 
@@ -90,6 +140,8 @@ My name is Ellen Stafford, I'm a full-stack software developer based in Liverpoo
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+
+<br>
 
 ### 🧰 Frameworks and Libraries
 
@@ -105,6 +157,8 @@ My name is Ellen Stafford, I'm a full-stack software developer based in Liverpoo
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Materialize](https://img.shields.io/badge/-Materialize-orange?style=for-the-badge&color=ff69b4)
 
+<br>
+
 ### 🗄 Databases and Cloud Hosting
 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
@@ -113,6 +167,8 @@ My name is Ellen Stafford, I'm a full-stack software developer based in Liverpoo
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+<br>
+
 ### Testing Frameworks
 
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
@@ -120,11 +176,15 @@ My name is Ellen Stafford, I'm a full-stack software developer based in Liverpoo
 ![Enzyme](https://img.shields.io/badge/-Enzyme-orange?style=for-the-badge&color=ff69b4)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
+<br>
+
 ### Command Line & Version Control
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<br>
 
 ### 💻 Software and Tools
 
@@ -135,20 +195,50 @@ My name is Ellen Stafford, I'm a full-stack software developer based in Liverpoo
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
+<br>
+
 ### 💻 IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
+<br>
+
 ---
 
-## 📊 GitHub Stats
+<br>
 
-![GitHub profile score](https://gitwar.herokuapp.com/badge?username=EllenSt264&color=blueviolet&style=for-the-badge&label=GITWAR+SCORE)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=EllenSt264.EllenSt264&style=flat-square)
+<h2 align="center">
+  📊 GTIHUB STATS
+</h2>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EllenSt264&row=2&column=3&margin-w=15&margin-h=15&theme=gitdimmed)
+<p align="center">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=EllenSt264.EllenSt264&style=flat-square" alt="GitHub visitors">
+</p>
 
-[![Ellen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellenst264&show_icons=true&locale=en)](https://github.com/ellenst264/github-readme-stats)
-[![Ellen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ellenst264&show_icons=true&locale=en&layout=compact)](https://github.com/ellenst264/github-readme-stats)
+<br>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=EllenSt264&row=2&column=3&margin-w=15&margin-h=15&theme=gitdimmed" alt="GitHub trophies">
+</p>
+
+<p align="center">
+    <a href="(https://github.com/ellenst264/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ellenst264&show_icons=true&locale=en" alt="GitHub stats"></a>
+    <a href="(https://github.com/ellenst264/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ellenst264&show_icons=true&locale=en&layout=compact" alt="GitHub stats"></a>
+</p>
+
+<br>
+
+---
+
+<br>
+
+<h2 align="center">
+  📈 WAKATIME STATS
+</h2>
+
+<br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
