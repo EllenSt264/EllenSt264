@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello, I'm+Ellen+Stafford+☕️;I'm+A+Full-Stack-Software-Developer+💻&vCenter=true&center=true&background=372b44&height=100&width=1000&font=Koulen&size=50&color=ffffff"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello, I'm+Ellen+Stafford+☕️;I'm+A+Full-Stack-Software-Developer+💻&vCenter=true&center=true&background=372b44&height=100&width=1000&font=Koulen&size=50&color=ffffff">
 </p>
 
 <h3 align="center">
@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=
-  Learning+New+Things...;Solving+Problems;Getting+Creative;Strength+Training;Playing+Games;Infinitely+Coding+&vCenter=true&center=true&height=50&width=800&font=Koulen&size=30&color=b042ff"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=
+  Learning+New+Things...;Solving+Problems;Getting+Creative;Strength+Training;Playing+Games;Infinitely+Coding+&vCenter=true&center=true&height=50&width=800&font=Koulen&size=30&color=b042ff">
 </p>
 
 <p align="center">
