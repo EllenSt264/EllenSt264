@@ -240,4 +240,16 @@ Here are some ideas to get you started:
 <br>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 18 May 2022 - To: 25 May 2022
+
+JavaScript   18 hrs 38 mins  ██████████████████████░░░   88.30 %
+Markdown     2 hrs 7 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Python       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+```
+
 <!--END_SECTION:waka-->
