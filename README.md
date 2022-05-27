@@ -240,9 +240,9 @@ Here are some ideas to get you started:
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-136-blue)
 
 **🐱 My GitHub Data** 
 
@@ -323,5 +323,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/EllenSt264/EllenSt264/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/05/2022 07:14:07 UTC
+ Last Updated on 27/05/2022 01:31:15 UTC
 <!--END_SECTION:waka-->
