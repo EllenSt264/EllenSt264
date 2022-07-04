@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  My name is Ellen Stafford, I'm a full-stack software developer based in Liverpool, UK. I am actively pursuing an entry into the tech industry and wish to contribute to the tech environment. 
+  My name is Ellen Stafford, I'm a full-stack software developer based in Liverpool, UK. I am actively pursuing an entry into the tech industry and wish to contribute to the tech environment.
 </p>
 
 <br>
@@ -134,6 +134,12 @@ Here are some ideas to get you started:
 
 <br>
 
+### 📚 I'm Currently Learning...
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+<br>
+
 ### 👩🏼‍💻 Programming Languages
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -157,7 +163,7 @@ Here are some ideas to get you started:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Materialize](https://img.shields.io/badge/-Materialize-orange?style=for-the-badge&color=ff69b4)
-
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 <br>
 
 ### 🗄 Databases and Cloud Hosting
@@ -170,17 +176,18 @@ Here are some ideas to get you started:
 
 <br>
 
-### Testing Frameworks
+### 🛠 Testing Frameworks
 
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Enzyme](https://img.shields.io/badge/-Enzyme-orange?style=for-the-badge&color=ff69b4)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 
 <br>
 
-### Command Line & Version Control
+### 👩🏼‍💻 Command Line & Version Control
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -188,7 +195,15 @@ Here are some ideas to get you started:
 
 <br>
 
-### 💻 Software and Tools
+### 💻 OS
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+<br>
+
+### 🖥 Software and Tools
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -203,6 +218,20 @@ Here are some ideas to get you started:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
+<br>
+
+### 📝 Blogging
+
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
+<br>
+
+### 💡 I know a little about...
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 <br>
 
@@ -242,80 +271,80 @@ Here are some ideas to get you started:
 <br>
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 44 Contributions in the Year 2022
- > 
-> 📦 591.3 kB Used in GitHub's Storage 
- > 
+>
+> 📦 591.3 kB Used in GitHub's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 24 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm a Night 🦉** 
+>
+> 📜 24 Public Repositories
+>
+> 🔑 0 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning    34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.44% 
-🌆 Daytime    85 commits     ████████░░░░░░░░░░░░░░░░░   33.6% 
-🌃 Evening    76 commits     ███████░░░░░░░░░░░░░░░░░░   30.04% 
+🌞 Morning    34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.44%
+🌆 Daytime    85 commits     ████████░░░░░░░░░░░░░░░░░   33.6%
+🌃 Evening    76 commits     ███████░░░░░░░░░░░░░░░░░░   30.04%
 🌙 Night      58 commits     █████░░░░░░░░░░░░░░░░░░░░   22.92%
 
 ```
-📅 **I'm Most Productive on Thursday** 
+
+📅 **I'm Most Productive on Thursday**
 
 ```text
-Monday       37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.62% 
-Tuesday      46 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Wednesday    32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
-Thursday     63 commits     ██████░░░░░░░░░░░░░░░░░░░   24.9% 
-Friday       42 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.6% 
-Saturday     21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.3% 
+Monday       37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.62%
+Tuesday      46 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.18%
+Wednesday    32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65%
+Thursday     63 commits     ██████░░░░░░░░░░░░░░░░░░░   24.9%
+Friday       42 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.6%
+Saturday     21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.3%
 Sunday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.74%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Europe/London
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in HTML** 
+**I Mostly Code in HTML**
 
 ```text
-HTML                     11 repos            ████████████░░░░░░░░░░░░░   50.0% 
-JavaScript               8 repos             █████████░░░░░░░░░░░░░░░░   36.36% 
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+HTML                     11 repos            ████████████░░░░░░░░░░░░░   50.0%
+JavaScript               8 repos             █████████░░░░░░░░░░░░░░░░   36.36%
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
 CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/EllenSt264/EllenSt264/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/EllenSt264/EllenSt264/main/charts/bar_graph.png)
 
+Last Updated on 04/07/2022 01:58:33 UTC
 
- Last Updated on 04/07/2022 01:58:33 UTC
 <!--END_SECTION:waka-->
