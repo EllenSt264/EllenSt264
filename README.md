@@ -293,80 +293,80 @@ Here are some ideas to get you started:
 <br>
 
 <!--START_SECTION:waka-->
-
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 🏆 44 Contributions in the Year 2022
->
-> 📦 591.3 kB Used in GitHub's Storage
->
+> 🏆 45 Contributions in the Year 2022
+ > 
+> 📦 591.3 kB Used in GitHub's Storage 
+ > 
 > 🚫 Not Opted to Hire
->
-> 📜 24 Public Repositories
->
-> 🔑 0 Private Repositories
->
-> **I'm a Night 🦉**
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.44%
-🌆 Daytime    85 commits     ████████░░░░░░░░░░░░░░░░░   33.6%
-🌃 Evening    76 commits     ███████░░░░░░░░░░░░░░░░░░   30.04%
-🌙 Night      58 commits     █████░░░░░░░░░░░░░░░░░░░░   22.92%
+🌞 Morning    35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.78% 
+🌆 Daytime    85 commits     ████████░░░░░░░░░░░░░░░░░   33.46% 
+🌃 Evening    76 commits     ███████░░░░░░░░░░░░░░░░░░   29.92% 
+🌙 Night      58 commits     █████░░░░░░░░░░░░░░░░░░░░   22.83%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.96% 
+Tuesday      46 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.11% 
+Wednesday    32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.6% 
+Thursday     63 commits     ██████░░░░░░░░░░░░░░░░░░░   24.8% 
+Friday       42 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.54% 
+Saturday     21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.27% 
+Sunday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.72%
 
 ```
 
-📅 **I'm Most Productive on Thursday**
 
-```text
-Monday       37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.62%
-Tuesday      46 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.18%
-Wednesday    32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65%
-Thursday     63 commits     ██████░░░░░░░░░░░░░░░░░░░   24.9%
-Friday       42 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.6%
-Saturday     21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.3%
-Sunday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.74%
-
-```
-
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Europe/London
 
-💬 Programming Languages:
+💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors:
+🔥 Editors: 
 No Activity Tracked This Week
 
-🐱‍💻 Projects:
+🐱‍💻 Projects: 
 No Activity Tracked This Week
 
-💻 Operating System:
+💻 Operating System: 
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in HTML**
+**I Mostly Code in HTML** 
 
 ```text
-HTML                     11 repos            ████████████░░░░░░░░░░░░░   50.0%
-JavaScript               8 repos             █████████░░░░░░░░░░░░░░░░   36.36%
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+HTML                     11 repos            ████████████░░░░░░░░░░░░░   50.0% 
+JavaScript               8 repos             █████████░░░░░░░░░░░░░░░░   36.36% 
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
 CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
 
 ```
 
+
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/EllenSt264/EllenSt264/main/charts/bar_graph.png)
+![Chart not found](https://raw.githubusercontent.com/EllenSt264/EllenSt264/main/charts/bar_graph.png) 
 
-Last Updated on 04/07/2022 01:58:33 UTC
 
+ Last Updated on 05/07/2022 01:48:08 UTC
 <!--END_SECTION:waka-->
