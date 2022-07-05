@@ -45,8 +45,26 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  My name is Ellen Stafford, I'm a full-stack software developer based in Liverpool, UK. I am actively pursuing an entry into the tech industry and wish to contribute to the tech environment.
+  Hi there, my name is Ellen Stafford, I'm a full-stack software developer based in Liverpool, UK. Qualified with a first-class diploma, I'm actively pursuing an entry into the tech industry. I'm excited to be part of a team who shares my creative and passion for coding! I look forward to meeting you!
 </p>
+
+<br>
+
+### 💡 Some things you should know about me...
+
+<br>
+
+#### 🌞 I'm an early bird, and I'm most optimal in the morning.
+
+#### 🚚 I'm happy to relocate!
+
+#### 👩🏼‍💻 I mostly code in JavaScript and Python.
+
+#### 🌱 I'm currently learning C#.
+
+#### 🏋️‍♀️ I love to workout. It keeps me focused!
+
+#### 🎮 I'm a gamer.
 
 <br>
 
@@ -62,15 +80,18 @@ Here are some ideas to get you started:
             self.email = 'stafford.ellen@protonmail.com',
             self.code = {
                 'frontend': ['HTML', 'CSS', 'JavaScript', 'JQuery', 'JQuery UI', 'React', 'Redux', 'Materialize CSS', 'Tailwind CSS', 'Bootstrap'],
-                'backend': ['Python', 'Flask', 'Django', 'PyMongo', 'Ruby'],
-                'testing': ['Jest', 'Enzyme', 'Django'],
+                'backend': ['Python', 'Flask', 'Django', 'PyMongo'],
+                'testing': ['Jest', 'Enzyme', 'Mocha', 'React Testing Library', 'Django', 'Jasmine'],
                 'database': ['MongoDB', 'PostgreSQL', 'NoSQL'],
                 'deploy': ['GitHub Pages', 'Heroku', 'AWS'],
-                'tools': ['GIT', 'GitHub']
+                'tools': ['GIT', 'GitHub'],
+                'apis': ['Stripe Payments', 'GMail']
             }
             self.skills = {
-                'interpersonal': ['Critical Thinking', 'Time Management', 'Teamwork', 'Problem Solving', 'Creativity'],
-                'industry': ['Agile Development', 'Test Driven Development', 'Research', 'Strategy', 'UI/UX']
+                'interpersonal': ['Communication', 'Teamwork', 'Emotional Intelligence'],
+                'analytical': ['Problem Solving', 'Organisation', 'Attention to Detail', 'Critcal Thinking', 'Strategy', 'Research'],
+                'personal': ['Passionate', 'Creative', 'Committed', 'Quick Learner', 'Adaptable', 'Flexible', 'Reliable'],
+                'industry': ['Agile Development', 'Test Driven Development', 'UI/UX Design', 'Relational Database Design Structure'],
                 'other': ['Semantic Markup', 'Creative & Academic writing', 'Figma']
             }
 
@@ -95,6 +116,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/EllenSt264/naturetrust"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EllenSt264&repo=naturetrust&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="NatureTrust" width="282p"></a>
     <a href="https://github.com/EllenSt264/my-next-game"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EllenSt264&repo=my-next-game&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="My Next Game" width="282"></a>
     <a href="https://github.com/EllenSt264/return-my-coffee"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EllenSt264&repo=return-my-coffee&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Return myCoffee" width="282"></a>
+    <a href="https://github.com/EllenSt264/naturetrust"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EllenSt264&repo=architect&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Architect" width="282p"></a>
     <a href="https://github.com/EllenSt264/ellenstafford"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EllenSt264&repo=ellenstafford&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Ellen Stafford portfolio" width="282"></a>
 </p>
 
@@ -116,6 +138,12 @@ Here are some ideas to get you started:
 
 <br>
 
+<h2 align="center">
+  📚 My Blogs
+</h2>
+
+<a target="_blank" href="https://mediumblog-cards.vercel.app/getMediumBlogs?username=ellenst264&limit=3"><img src="https://mediumblog-cards.vercel.app/getMediumBlogs?username=ellenst264&limit=3" alt="Recent medium articles"></a>
+
 ---
 
 <br>
@@ -131,12 +159,6 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 👈 👉
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-<br>
-
-### 📚 I'm Currently Learning...
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 <br>
 
