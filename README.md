@@ -338,16 +338,21 @@ Sunday       12 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               3 hrs 5 mins        ██████████████████████░░░   89.78% 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.21% 
+HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.0% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 26 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+counterchallenge         3 hrs 26 mins       █████████████████████████   100.0% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 26 mins       █████████████████████████   100.0%
 
 ```
 
@@ -367,5 +372,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/EllenSt264/EllenSt264/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/07/2022 01:55:20 UTC
+ Last Updated on 18/07/2022 01:54:32 UTC
 <!--END_SECTION:waka-->
