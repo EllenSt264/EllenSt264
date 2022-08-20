@@ -293,7 +293,7 @@ Here are some ideas to get you started:
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -367,5 +367,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/EllenSt264/EllenSt264/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/08/2022 01:54:46 UTC
+ Last Updated on 20/08/2022 01:53:00 UTC
 <!--END_SECTION:waka-->
