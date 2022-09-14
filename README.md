@@ -309,48 +309,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.07% 
-🌆 Daytime    66 commits     ███████████░░░░░░░░░░░░░░   45.21% 
-🌃 Evening    36 commits     ██████░░░░░░░░░░░░░░░░░░░   24.66% 
-🌙 Night      22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.07%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       32 commits     █████░░░░░░░░░░░░░░░░░░░░   21.92% 
-Tuesday      32 commits     █████░░░░░░░░░░░░░░░░░░░░   21.92% 
-Wednesday    18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.33% 
-Thursday     30 commits     █████░░░░░░░░░░░░░░░░░░░░   20.55% 
-Friday       16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.96% 
-Saturday     15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
-Sunday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.05%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -367,5 +325,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/EllenSt264/EllenSt264/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/09/2022 02:07:29 UTC
+ Last Updated on 14/09/2022 02:01:55 UTC
 <!--END_SECTION:waka-->
